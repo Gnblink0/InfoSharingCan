@@ -1,0 +1,204 @@
+$color-primary: hsl(0, 0%, 10%);
+$color-text: hsl(0, 0%, 20%);
+$color-subtext: hsl(0, 0%, 30%);
+$color-border: hsl(0, 0%, 85%);
+$color-box-background: mix($color-primary, white, 4%);
+$border-radius: 4px;
+$font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
+  sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+
+body {
+  box-sizing: content-box;
+  font-family: $font-family;
+  margin: 0 auto;
+  line-height: 1.7;
+  padding: 4vh 6vw;
+  overflow-x: hidden;
+  color: $color-text;
+  font-size: 1rem;
+  max-width: 63em;
+
+}
+
+// 自加
+
+
+mark {
+  background-color: #faedb1ab;
+}
+
+table {
+  border-collapse: collapse;
+  font-size: 0.88em;
+}
+
+th,
+td {
+  padding: 4px 10px;
+  border: 1px solid;
+  border-color: hsl(0, 0%, 80%);
+}
+
+ul,
+ol {
+  padding-inline-start: 15px;
+}
+
+// a[href*="douban.com"]::after {
+//   content: url("data:image/svg+xml,%3Csvg t='1631851652020' class='icon' viewBox='0 0 1024 1024' version='1.1' xmlns='http://www.w3.org/2000/svg' p-id='10982' data-darkreader-inline-fill='' width='10' height='10'%3E%3Cpath d='M943.4 65.7H81.6c-8.8 0-16 7.1-16 16v63.8c0 8.8 7.1 16 16 16h861.7c8.8 0 16-7.1 16-16V81.6c0-8.8-7.1-15.9-15.9-15.9z m0 797.9h-233l83-207.5h70.2c8.8 0 16-7.1 16-16v-367c0-8.8-7.1-16-16-16H161.4c-8.8 0-16 7.1-16 16v367c0 8.8 7.1 16 16 16h504.3l-83 207.5H426.3L368.9 720c0-8.8-7.1-16-16-16h-95.7c-8.8 0-16 7.1-16 16l57.4 143.6h-217c-8.8 0-16 7.1-16 16v63.8c0 8.8 7.1 16 16 16h861.7c8.8 0 16-7.1 16-16v-63.8c0-8.9-7.1-16-15.9-16zM289.1 560.4V352.9h446.8v207.5H289.1z' fill='%2330C171' p-id='10983' data-darkreader-inline-fill='' style='--darkreader-inline-fill:%23269a5a;'%3E%3C/path%3E%3C/svg%3E");
+// }
+
+// a[href*="wikipedia."]::after {
+//   content: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' aria-hidden='true' focusable='false' width='10' height='10' style='vertical-align: -0.125em;-ms-transform: rotate(360deg); -webkit-transform: rotate(360deg); transform: rotate(360deg);' preserveAspectRatio='xMidYMid meet' viewBox='0 0 48 48'%3E%3Cpath fill='%23CFD8DC' d='M6 10a4 4 0 0 1 4-4h28a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H10a4 4 0 0 1-4-4V10z'/%3E%3Cpath fill='%2337474F' d='M39 17.271a.342.342 0 0 1-.334.349h-1.799l-8.164 18.179c-.052.12-.17.2-.297.202h-.004a.33.33 0 0 1-.298-.193l-3.874-8.039l-4.18 8.049a.333.333 0 0 1-.303.184a.336.336 0 0 1-.292-.199l-8.252-18.182h-1.87a.345.345 0 0 1-.333-.35v-.921a.34.34 0 0 1 .333-.35h6.657a.34.34 0 0 1 .333.35v.921a.342.342 0 0 1-.333.349h-1.433l5.696 13.748l2.964-5.793l-3.757-7.953h-.904a.342.342 0 0 1-.333-.35v-.922c0-.191.149-.348.333-.348h4.924a.34.34 0 0 1 .333.348v.922c0 .192-.149.35-.333.35h-.867l2.162 4.948l2.572-4.948H25.77a.34.34 0 0 1-.334-.35v-.922a.34.34 0 0 1 .334-.348h4.784c.187 0 .333.156.333.348v.922a.34.34 0 0 1-.333.35h-1.05l-3.757 7.141l3.063 6.584l5.905-13.725h-1.872a.343.343 0 0 1-.334-.35v-.922c0-.191.15-.348.334-.348h5.822a.34.34 0 0 1 .334.348v.921z'/%3E%3Crect x='0' y='0' width='48' height='48' fill='rgba(0, 0, 0, 0)' /%3E%3C/svg%3E");
+//   margin-left: -2px;
+//   padding-right: 4px;
+// }
+
+
+.bookCover {
+  float: right;
+  width: 150px;
+  margin-bottom: 20px;
+}
+
+
+// 自加
+
+time {
+  display: block;
+  color: $color-subtext;
+  margin: 0.5em 0 1em;
+}
+
+footer {
+  margin: 2em 0;
+  font-size: 0.8em;
+  color: mix($color-text, white, 80%);
+  padding-top: 1em;
+}
+
+img {
+  max-width: 100%;
+  border-radius: $border-radius;
+}
+
+blockquote {
+  padding: 1.5em;
+  margin: 0em;
+  font-size: 0.88em;
+  background: $color-box-background;
+  border-radius: $border-radius;
+
+  p {
+    margin: 0;
+  }
+}
+
+
+
+
+p {
+  margin-block-start: 0.9em;
+  margin-block-end: 0.9em;
+}
+
+ul ul {
+  margin-block-start: 0;
+  margin-block-end: 0.9em;
+}
+
+ul ul ul {
+  list-style-type: square;
+}
+
+hr {
+  width: 100%;
+  border: 0;
+  height: 1px;
+  margin: 1.5em 0;
+  background: $color-border;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  line-height: 1.3;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+a {
+  transition: background 300ms;
+  padding: 0 0.1em;
+  text-decoration: none;
+  border-bottom: 1px solid $color-border;
+  color: $color-primary;
+
+  &:hover {
+    color: black !important;
+    background: #fffaf1;
+  }
+
+  &:after {
+    position: relative;
+    top: -0.5em;
+    font-size: 0.7em;
+    content: "↗";
+    color: #aaaaaa;
+  }
+
+  &.internal-link:after,
+  &.footnote:after,
+  &.reversefootnote:after {
+    content: "";
+  }
+}
+
+*:focus {
+  background: #ffe8bc !important;
+  color: black !important;
+}
+
+nav {
+  margin: 1em 0 3em;
+}
+
+#notes-entry-container {
+  display: grid;
+  grid-gap: 2em;
+  grid-template-areas:
+    "content"
+    "side";
+
+  @media (min-width: 700px) {
+    grid-template-columns: 3fr 1fr;
+    grid-template-areas: "content side";
+  }
+}
+
+.backlink-box {
+  background: $color-box-background;
+  padding: 1em;
+  border-radius: $border-radius;
+}
+
+code {
+  background: #f5f5f5;
+  padding: 0.1em 0.2em;
+  border-radius: 4px;
+}
+
+.invalid-link {
+  color: #444444;
+  cursor: help;
+  background: #fafafa;
+  padding: 0 0.1em;
+}
+
+.invalid-link-brackets {
+  color: #ccc;
+  cursor: help;
+}
