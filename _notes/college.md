@@ -8,7 +8,8 @@
 
 - [[乔治布朗学院 George Brown]] （多伦多市中心）
 
-- Humber college
+- Humber college 
+	- [汉博宣传册22-23](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/汉博宣传册22-23.pdf)
 
 - 圣力嘉学院 Seneca College
 
