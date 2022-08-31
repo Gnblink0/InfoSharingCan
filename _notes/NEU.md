@@ -37,5 +37,23 @@ ps：但我个人最近觉得，有加拿大毕业的 STEM master 学位，再�
 
 
 ## 申请
+- 成绩单
+- 文书（3 篇小作文）
+- 3 封推荐信
+- 雅思成绩单
 
+### 文书
+Align 申请者将获得三个论文提示来代替目的陈述。需要三分之二。他们是：
+-   **论文 1（250 字）** ——对齐的学生经常提到坚持不懈的重要性——不断迭代和解决问题的能力。告诉我们你必须坚持的时候。这对你的职业轨迹有何影响？
+-   **论文 2（250 字）** ——我们的一些学生希望将他们的热情与技术结合起来；其他人希望抛开过去的经验，一头扎进计算机科学世界。是什么推动了您向技术转型？
+-   **可选（250 字）** ——如果您认为上述问题没有让您有机会充分了解您自己，请随时使用本部分来强调一些关于您自己的内容，这对于了解您是谁以及是什么驱动您至关重要。
+
+Align applicants are given three essay prompts in lieu of the statement of purpose. Two out of three are required. They are:
+- **Essay 1 (250 words)** – Align students often cite the critical importance of perseverance—the capacity to keep iterating and working a problem. Tell us about a time you had to persevere. How has that shaped your career trajectory?
+-   **Essay 2 (250 words)** – Some of our students wish to take their passion and combine it with tech; others wish to leave their past experiences behind and dive head-first into the computer science world. What drives your transition into tech?
+-   **Optional (250 words)** – If you believe the above questions have not given you an opportunity to tell us enough about yourself, feel free to use this section to highlight something about yourself that is essential to understanding who you are and what drives you.
+
+## 一些反思
+
+[【持续更新】转码三思。NEU在读，发现自己不想做码农，考虑退学。](https://www.douban.com/group/topic/268061259/?_i=1954547tzth8nk)
 
