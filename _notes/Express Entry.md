@@ -3,7 +3,7 @@
 
 [Comprehensive Ranking System (CRS) tool: skilled immigrants (Express Entry)](https://www.cic.gc.ca/english/immigrate/skilled/crs-tool.asp) 官方模拟打分器
 
-[Express Entry | 新生代签证移民事务所](https://eoivisa.com/ee/) 有 EE 的基础要求、模拟打分器、每次邀请动态
+[Express Entry 丨 新生代签证移民事务所](https://eoivisa.com/ee/) 有 EE 的基础要求、模拟打分器、每次邀请动态
 
 
 ## 正文
