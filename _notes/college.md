@@ -15,6 +15,7 @@
 
 谢尔丹学院 Sheridan College
 
-卑诗理工学院 BCIT
+[卑诗理工学院 BCIT](https://www.bcit.ca/)
+
 
 
