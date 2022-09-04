@@ -11,7 +11,7 @@
 
 Barrie: Georgian
 
-Oshawa: Durham
+Oshawa: [[Durham College 杜伦学院]]
 
 Oakville: 谢尔丹学院 Sheridan College （谢尔丹我觉得是college里比较特殊的一个，艺术专业很好，要求也比普通college高，提供的bachelor学位也更多）
 
@@ -25,14 +25,8 @@ London: Fanshawe
 
 Windsor: St.Clair
 
+[[温哥华]]：[[BCIT]]
 
 
----
-
-
-[卑诗理工学院 BCIT](https://www.bcit.ca/) 
-
-BCIT 作为 college 在全加拿大口碑是最好的，作为 bc 学校在 bc 口碑也很好（有人和我说 bc 本地对学校的认同，除了 UBC 和 SFU 之外就是 BCIT），据说课程很硬核...
-但我个人感觉以后想生活在安省的话还是申安省的学校更好？🤔
 
 
