@@ -228,3 +228,117 @@ CPA 已更新，因此现在更好，但它主要侧重于应用程序，而不�
 
 
 ### Humber College
+
+humber 给我印象也不错
+
+**关于 2/3 年项目和coop的思考**
+
+但是 2 年制项目 coop 只有一次，感觉质量上可能没有 Conestoga 3 年制项目在滑铁卢的 16 周 coop 更好。
+
+但是考虑一下，学期内工作经验不能算进 CEC，是早点毕业去找工作更好，还是在 coop 积累更多经验更好？🤔 似乎还是上 2 年的课早点工作通过 cec 拿到 pr 更好...? 但是 coop 找工作明显比自己找容易，然后一毕业就有一年多工作经验的话 自己再找工也更容易，但是有些雇主会特地说 实习工作不算工作经验... emm 纠结（另一个不清楚的事 Conestoga 的 coop 学期是否要交学费？它们官网 coop 学费那个界面是空的 只有 non coop 学费 但是学生似乎通常要为 coop 付费）
+
+
+[（有coop的program列表）Optional Co-op Stream - Humber College](https://appliedtechnology.humber.ca/current-students/work-integrated-learning/optional-co-op.html)
+
+[（关于coop的详细说明和解释，以cp为例）Computer Programming With Optional Co-op - Humber College](https://appliedtechnology.humber.ca/current-students/work-integrated-learning/optional-co-op/computer-programming-with-optional-co-op.html)
+
+合作社工作期限为 14 周的全职带薪工作（至少 12 周/420 小时）。
+
+
+
+- [Computer Programming - Humber College](https://appliedtechnology.humber.ca/programs/computer-programming.html?_ga=2.142398130.149814494.1627402807-46235140.1626880161)
+	- 4 学期 1一个coop （在第 2 学期申请coop，第 3 学期和第 4 学期之间进行一个带薪实习）
+	- 17,618加币（一年）
+	- 课程设计还不错 第一学期有那些基础（数学、数据库、算法、操作系统），后面会教前端（三大件 react）、面向对象编程（java）、数据库（oracle sql）、统计数据分析（python）；然后数据结构与算法、node. js (前后端交互)、移动端；最后一学期那些课我有点看不懂 好像是更高级的那种课程。总体就是全栈开发需要的最基本的东西，很在点子上，但这样教会不会太宽太浅... （好吧 很多bootcamp还半年就能让零基础上岗，相比之下两年项目培养全栈好像也没有很离谱）
+	- >除了学习各种语言的编程技能，包括 Java、JavaScript、Python 和移动编程（Android 和 iOS），课程旨在为学生在网络和软件开发、Oracle 数据库设计和编程方面的理论和实践打下坚实的基础、项目管理、技术写作和信息系统的所有方面。
+	  学生还将了解规划、开发、测试和部署集成软件解决方案的标准。除了培养协作和团队合作的软技能外，该课程还让学生为当今竞争激烈的就业市场做好准备。 
+
+
+- [Computer Programming and Analysis - Humber College](https://appliedtechnology.humber.ca/programs/computer-programming-and-analysis.html?_ga=2.238978432.146083348.1662447537-1503282208.1656605323)
+	- 6 学期 3 个 coop
+	- 16,394加币（一年）
+	- 这个前四个学期好像和cp没什么区别，然后5、6学期都是 一学期选5门课、做一个项目，选修课看了下 似乎不是很吸引我... [选修课 SEM5 - 亨伯学院](https://www.humber.ca/electives.html?elective=yes&code=CPG5&_ga=2.58613802.146083348.1662447537-1503282208.1656605323) [选修课 SEM6 - 亨伯学院](https://www.humber.ca/electives.html?elective=yes&code=CPG6&_ga=2.268396302.146083348.1662447537-1503282208.1656605323) 机器学习 人工智能 大数据啥的...感觉对找工没啥用哈哈哈 不过某些PHP、c# asp.net好像是Algonquin的必修课耶
+	- >除了学习各种语言的编程技能，从 Java 和 ASP.NET 到 PHP、JavaScript、Python 和移动编程（Android 和 iOS），这些课程旨在为学生在 Web 开发的理论和实践方面打下坚实的基础和设计、Oracle 数据库管理和管理、项目管理、技术写作以及信息系统的所有方面。该课程还让学生有机会学习人工智能（AI）、机器学习、数据分析、云计算、IT安全和大数据等专业主题。
+
+
+- [Computer Engineering Technology - Humber College](https://appliedtechnology.humber.ca/programs/computer-engineering-technology.html?_ga=2.238978432.146083348.1662447537-1503282208.1656605323)
+	- 6 学期 3 个 coop
+	- 这个好多硬件和原理，语言从c过渡到java
+
+
+- [Multimedia Design and Development - Humber College](https://mediaarts.humber.ca/programs/multimedia-design-and-development.html)
+	- 4 学期 diploma 没有 coop
+	- 有点软有点杂...
+
+- [Game Programming - Humber College](https://mediaarts.humber.ca/programs/game-programming.html?_ga=2.238978432.146083348.1662447537-1503282208.1656605323)
+	- 6 学期 Advanced Diploma 没有 coop
+	- >Humber 的游戏编程高级文凭课程以项目为导向，专注于为游戏开发而编程和设计游戏引擎，从独立游戏到 AAA。您将使用编程工具通过游戏引擎架构、优化和敏捷方法的视角来制作游戏原型和构建游戏的团队项目。
+	一套全面的课程涵盖了 C++ 编程、图形、数学、物理、人工智能、Unity/Unreal 游戏引擎开发和计算机网络等主题。
+	您将在游戏挑战赛、外部项目和/或为期一学期的课堂项目中与动画 3D 高级文凭和音乐学士学位的同学一起工作，以培养游戏行业所需的重要协作技能。
+	你将通过一个重要的中期项目和顶点项目毕业，以展示你使用游戏引擎（如 Unity 或 Unreal）的编码才能，以及你创建自己的 C++ 游戏引擎的能力。凭借高度的游戏引擎专业知识、熟悉 3D 建模、脚本和技术指导，您将拥有在快速扩展的游戏开发领域竞争和取得成功所需的工具。
+
+
+### George Brown
+
+[Program Finder | George Brown College](https://www.georgebrown.ca/program-finder?year=2022)
+
+
+[Computer Programming and Analysis Program T177 | George Brown College](https://www.georgebrown.ca/programs/computer-programming-and-analysis-program-t177)
+
+[Computer Systems Technician Program T141 | George Brown College](https://www.georgebrown.ca/programs/computer-systems-technician-program-t141?year=2022)
+
+[Game – Programming Program T163 | George Brown College](https://www.georgebrown.ca/programs/game-programming-program-t163?year=2022)
+
+乔治布朗给我一种没有很重视 IT 的感觉？？课程详述都没有（好吧它们网站就是做成这样 所有项目都无 不过可能具体的在某另一个页面） 然后很多课都有在线课 莫名让我感觉有点水
+
+主要是IT项目全都没有coop
+
+感觉乔治布朗还是去上他们的王牌/特色专业比较好，比如烹饪啊 牙医啊什么的
+
+
+### Seneca
+
+Seneca 好像是最大的 college？有 8 个校区 应该也是中介宣传得最多的一个学校
+
+王牌专业似乎是航空和商科？
+
+IT 项目：CPA CPP CPD
+
+总体感觉也不是很重视 IT 而且我不太喜欢这种太大规模的学校/校园🤔 感觉学生会得不到重视 不过也可能是我的暂时偏见... 总之 待定
+
+>[🔗](https://www.quora.com/Is-Seneca-good-for-Computer-Programming-and-Analysis)
+塞内卡学院比百年学院好吗？
+这两所学院都是多伦多和大多伦多地区的标准社区学院。我在百年校学习过，所以可以说基础设施非常好。一些与工程和 IT 相关的项目在 Centennial 非常好。如果您正在寻找艺术或管理课程，那么这两所大学都非常相似。这在很大程度上取决于您在寻找什么。塞内卡位于北约克地区，现在是该市发展非常迅速的一部分。所以，如果你想学习管理课程，那就去 Seneca。建立良好网络的机会更多。如果您只是在寻找技术课程，请选择 Centennial。简而言之，很难说哪个更好，因为它们都有一些优点和缺点。 
+
+
+还有些人提到 seneca 的计算机课程里完全没有数学课
+
+
+[Information Technology - Seneca, Toronto, Canada](https://www.senecacollege.ca/programs/byareaofstudy/information-technology.html) （所有 IT 项目）
+
+[Optional Co-op - Seneca, Toronto, Canada](https://www.senecacollege.ca/programs/co-op-work-experience/optional-co-op-work-term.html) （所有有coop的项目）
+
+- [Computer Programming - Seneca, Toronto, Canada](https://www.senecacollege.ca/programs/fulltime/CPP.html)
+	- 4 学期 
+	- 一学期 5 门课，然后 234 学期还各有一门通识课... 最后一学期才有一门选修课。
+	  以 c 语言为基础，会学一点数据库、面向对象编程、前端 web、数据结构和算法
+	  总体感觉不太行啊... 不是很紧凑，居然第四学期才学数据结构和算法
+	  
+	  >CPP 文凭的重点是培养适销对路的技能，以确保在面向对象编程、遗留系统编程、操作系统、PC 和用户支持领域的就业。
+
+
+- [Computer Programming & Analysis - Seneca, Toronto, Canada](https://www.senecacollege.ca/programs/fulltime/CPA.html)
+	- 6 学期
+	- 后面两学期也基本是项目+选修课
+
+>[🔗](https://www.reddit.com/r/Seneca/comments/vgzaq7/looking_at_the_cpa_program_with_minimal/)
+嘿，我处于类似的位置，想分享我的经验。几个学期前我进入了 CPA，几乎没有任何编码经验。第一学期甚至第二学期的课程并没有那么糟糕，但[IPC144](https://apps.senecacollege.ca/ssos/findOutline.do?subjectCode=IPC144) 将是一场真正的斗争。最后期限是疯狂的，工作量是巨大的。我现在正在重新学习这门课程，因为我第一次这样做时遇到了疯狂的困难。这门课没有数学，但无论是通过 youtube 还是其他来源，您都需要事先了解您的材料。如果您打算参加这门课，请做好准备，因为在我看来，作为入门级课程，它真的很糟糕。如果您有任何问题，请随时给我留言，我会尽力回答。 
+
+哈？有些人说课太难了？
+
+### Centennial College
+
+
+### Fanshawe College
+
+### Sheridan College
