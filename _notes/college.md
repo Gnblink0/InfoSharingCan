@@ -78,7 +78,7 @@ Windsor: St.Clair
 ### BCIT
 - BCIT给我感觉好像更强调商业和创业？
 
-IT 主要就三个项目，CST、CIT、Full-Stack
+主要三个IT项目，CST、CIT、Full-Stack
 
 - [Computer Systems Technology, Diploma, Full-time – BCIT](https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/#overview) （CST）
 	- 这个好像是bcit关于计算机的明星项目了🤔 看起来很牛逼 好像第一年上通识 后面可以自己选方向 然后课程里也有作品集和项目 还强调竞争激烈？英语和数学要求高 500 个人里录取 150 个
@@ -108,3 +108,123 @@ IT 主要就三个项目，CST、CIT、Full-Stack
 
 - [Digital Design and Development, Diploma, Full-time – BCIT](https://www.bcit.ca/programs/digital-design-and-development-diploma-full-time-6515dipma/#courses) 
 	- 这个是商学+媒体院的 有点软了吧唧 不考虑
+
+- ### Conestoga College
+
+好多校区 不过全都在 GTA 卫星城 计算机好像在滑铁卢比较多 (就在uw旁边 hh)
+> the Kitchener Waterloo is an extremely good area for high tech companies.[](https://youtu.be/ttLl3GzJjsY?t=605)
+
+对康院印象还不错 似乎工程是强项 计算机也还行
+
+好像也挺重视coop的？有个单独界面[Co-operative education | Conestoga College](https://www.conestogac.on.ca/co-operative-education)
+
+[Full-time programs | Conestoga College Ontario](https://www.conestogac.on.ca/fulltime?keywords=&areaOfInterestFilterIds=500)
+
+主要的IT项目：CPA、SET、IT Innovation and Design
+
+
+
+- [Computer Programming and Analysis | Advanced Diploma](https://www.conestogac.on.ca/fulltime/computer-programming-and-analysis/description?id=24546)
+	- 3年
+	- $16077
+	- coop 四个连续四个月（16个月）（仔细看了下 好像non coop2年多就能学完 coop就要3年多 那3年项目其中1年实习 很香啊）（就是CEC 读书时候的工作经验不能算 有点蛋疼（
+	- 这个说是 analysis 我以为涉及很多数据什么的 但居然教了很多 web?? 正合我口味... 不过也有商业、投资什么的数据（不过这些课倒莫名显得有点突兀） 然后会做项目 也有 coop 好耶 
+	- Students graduate with programming experience and the skills necessary to analyze and design computer applications for business. Entry-level positions for graduates of this program include computer programmer, web application developer, software tester and quality control professional. In addition to these, career path opportunities would include systems analyst and business analyst. 平均而言，过去三年（2018 年至 2020 年）的毕业生中有 73% 在毕业后六个月内找到了工作。（orz 也不是 很高啊）
+
+>[🔗](https://www.reddit.com/r/kitchener/comments/26h2kv/is_anyone_in_the_computer_programminganalyst/)
+是的，会计只是一门课程，谢天谢地，我讨厌它，哈哈。他们确实有另外两门数学课程，它们不是真正的会计，但它们确实处理诸如未来价值、现值、计算不同税收之类的东西。还有很多，但我已经忘记了数学课程。这似乎是记住公式，而不是学习概念。我已经知道如何做所有的数学运算，但只是不知道公式的用途。 
+
+啊 其实我也不想上这些商业分析数学之类的课...
+
+- [Software Engineering Technology | Full-time | Ontario College Advanced Diploma](https://www.conestogac.on.ca/fulltime/software-engineering-technology)
+	- 时间学费同上
+	- 要学 c++（好吧 第一年就是围绕 c++...） 好的 多了很多我看不懂的东西（）
+	- This program provides the knowledge and skills to function proficiently as a software developer. Graduates will have acquired the ability and flexibility to join a large variety of software, technical, or system development teams at an intermediate level position. 平均而言，过去三年（2018 年至 2020 年）83% 的带薪实习毕业生和 70% 的非带薪实习毕业生在毕业后六个月内找到了工作。
+	- [Does the SET program have a good reputation? : Conestoga](https://www.reddit.com/r/Conestoga/comments/dcx3zm/does_the_set_program_have_a_good_reputation/)
+		- 我们从 C 作为入门语言开始，然后使用 C++。从那里，您可以学习任何语言。真的。所以，我们实际上并没有教 Python，但学生们还是会使用它（因为你可以很容易地学会它）。我们确实使用 JS，但同样，它很容易上手。我们曾经有一门完整的 Java 课程，但我们并不真正需要它（因为...... 它很容易上手）所以我们放弃了那门课程。它仍然用于 Android 编程，但没有必要教它。所以，是的，你可以在第一年完成后拿起任何东西。（只教 c++其他纯自学啊...🤔）
+	- [Does it worth study Software Engineering Technology (with co-op) at Conestoga College? : Conestoga](https://www.reddit.com/r/Conestoga/comments/igo7rl/does_it_worth_study_software_engineering/)
+		- 我去年四月刚从这个项目毕业，如果你愿意把工作投入到。 它拥有良好的声誉，合作模式非常稳固，教授们非常出色，而且作为奖励，他们向仅限在线的转变也相当顺利。
+		我们主要学习了 C/C++/C# ，以及一些 Swift（IOS 课程）和 Java（Android 课程），以及一些 DB 课程。还高度关注软件开发的技术性较少和概念性较多的基础（良好的设计、需求收集、生命周期、项目管理等）。
+		去年，使用您感兴趣的技术（Go、Web 框架、ruby 等）工作有了更多的自由。去年我非常关注 VR，这不是我个人的事，但很多人喜欢它。
+		我个人最大的问题（这在许多软件程序中可能很相似）是缺乏对现代技术的关注。我向教授们提出了这个问题，他们总是强调技术在变化，但基本面保持不变的事实。这是一个伟大的意识形态，但给应届毕业生带来了沉重的负担，以确保他们拥有展示在更现代技术方面的知识/经验的工作组合。
+		尽管这个评论看起来几乎是负面的，但我喜欢我在这个节目中的时间，并且不能推荐它。最后一条建议：参加合作社，这是非常必要且值得的。
+
+
+
+>[🔗](https://www.reddit.com/r/kitchener/comments/u8rcic/conestoga_college_software_engineering_technician/)
+这取决于你想做什么。SET 更普遍适用于软件开发中更广泛的工作。CPA 更直接地教授编程。如果您想从头开始设计软件，SET 是您的必经之路。如果您只想编码和作为程序员工作或专注于 Web 开发，那么 CPA 可能是更好的选择。
+您可以查看相应的计划页面，看看他们会为您准备什么样的工作。
+无论哪种方式，您都应该查看合作选项。 
+>
+-如果您正在寻找更多朝九晚五的工作，我会推荐计算机编程。这些技能更适用于软件开发。我注意到，在新员工中，很多人都缺乏对软件基础架构的理解，更重要的是 SQL。
+-我从 SET 认识的每一位毕业生都是朝九晚五的工作，并且在专业发展中继续学习和成长。
+雇用某人是在确定增长潜力，而不仅仅是要检查的框。
+-哦，100%，这对我来说可能措辞不佳。所有人都在说，当我们招聘 SET 毕业生（我们确实这样做）时，入职往往更加密集，因为与 CPA 毕业生相比，他们在实际软件开发方面往往有些薄弱。
+-从我的经验来看，SET 更像是大学，所以这是有道理的。
+CPA 已更新，因此现在更好，但它主要侧重于应用程序，而不一定是其背后的“科学”。
+
+>[🔗](https://www.reddit.com/r/kitchener/comments/u8rcic/conestoga_college_software_engineering_technician/)
+据我了解，SET 涵盖了来自低级语言（如汇编、C、C++）的更多通用内容，并且非常关注 SDLC（软件开发生命周期），而 CP 更“专业”，因为它们涵盖的主题更少，我认为是相当繁重的网络开发。
+“我去年为一个类似的问题写了这篇文章。:) 我在下面复制了它。（我希望我的引用是正确的。）
+我对 CS 项目了解不多，但我知道它是由 SET 的教师制作的，并且基于 SET 程序。
+我想翻页/u/i_yac。他是 SET 的协调员。SET 最近进行了一些重组，以更新它并平衡术语之间的工作量。
+使用另一张海报的建造房屋的类比，在SET，您将学习建造房屋各个方面的基础知识。您将学习几种设计房屋的方法，地基、框架、管道、电气、地板、石膏板和室内设计。
+在 CPA 中，他们不会在设计、管道、电气或框架或地板上花费太多时间（如果有的话）。您可以为此聘请专家（翻译成您可以使用的工具/框架）。您将学习石膏板和室内设计。一些管道，可能是电气，但更高级的东西，比如更换灯具或水龙头/梳妆台。
+回到软件，在 SET 中，您将学习设计原理，并从低级语言（汇编、C、C++）开始，并了解如何将屏幕上的文字变成一个活生生的应用程序。您将学习数据库，并朝着更高级的语言（一点点 Java、大量 C# 和一些 Web 开发语言）努力。
+在 CPA 中，他们不会从低级别的东西开始。他们不教授汇编、C 或 C++，也不教授设计原则（如果有的话）。我相信你比 SET 了解更多关于不同框架的知识，更多的网络开发。
+两者都可以选择拥有 16 个月的合作社，我强烈推荐。
+这真的取决于你想做什么类型的工作。当我学习编程时，我发现了解整个画面非常有帮助。如果您对 webdev、高级别的东西感兴趣，CPA 可能更适合您。如果您希望能够创建一个完整的解决方案，设计和实施它，跨不同平台工作，那么 SET 可能更合适。
+如果时间和预算允许，SET 的教授们还创建了一个新的学位课程：计算机科学学士学位。它是全新的，这是它提供的第一年。/u/i_yac可能能够提供有关它的更多信息。我建议将其添加到您正在考虑的程序列表中。
+我希望这有帮助。如果您还有其他问题，请告诉我。我会尽力回答” 
+
+- [IT Innovation and Design | Full-time | Ontario College Advanced Diploma](https://www.conestogac.on.ca/fulltime/it-innovation-and-design)
+	- 时间学费同上
+	- 这个好像偏向交互设计，整体和 cpa 比较像，但是会软一点、设计的东西多一点。看起来比较有趣，但是我担心比较软会不会对找工有影响，但是就业数据又很惊人100%... IT innovation and design这名字取得有点怪哈哈
+	- Graduates will be technically proficient in programming, especially for mobile devices, and can expect to obtain industry careers as software developers and designers. With professional experience, graduates will access career paths such as front-end developer, IT product manager, IT marketing manager and strategist. 平均而言，过去三年（2018 年至 2020 年）100% 的带薪实习毕业生和 69% 的非带薪实习毕业生在毕业后六个月内找到了工作。（....? 这么 bug）
+	- [IT Innovation and Design (0040) - YouTube](https://www.youtube.com/watch?v=ttLl3GzJjsY)
+		- 一个老师讲了15minPPT介绍 Randall Kozak  rkozak@conestogac.on.ca
+		- There is a strong design component. there are graphic design courses. There's course in animation, and game design. A couple of courses actually in game development. That is on top of the programming courses would normally expect to find that you in a software development program. The database courses, and the inter connectivity courses, some networking, some security, and so forth and so on. 然后他说了这个行业需求很高，经济疲软的时候，在一个强劲并且会持续强劲的行业里很好 hhh... 果然转码就是找工赚钱 and this program has a lot to do with the front end, that typically has a lot to do with the business model of a company. 没懂🤔 前端和公司的商业模型？ 后面解释了下 好像之前这个行业都是大公司 现在其实有很多 startups/中小公司都在成立 需要雇员 改变了 job market
+		- The program brings together:
+			Design & User Experience
+			Programming
+			Emerging technologies
+			Marketing and Business Skills
+			Innovation!
+		- Career Paths?
+			Leads to these careers:
+			Front End Developer
+			Full Stack Developer
+			UX Designer
+			Emerging technologies researcher
+	- [I am going into my first year of IT Innovation and Design. How difficult is it? And any advice on how I can prepare for it? : Conestoga](https://www.reddit.com/r/Conestoga/comments/obbat2/i_am_going_into_my_first_year_of_it_innovation/)
+		- Its easy if you keep up with all the lectures and assignments. Make sure to attend all classes and pay attention during the labs, sounds easy but most classes can be pretty dry. If you're looking to get ahead before the semester starts work on basic HTML and CSS tutorials on youtube. Also start reading up on C# language and MVC. There will be easy math, English, and accounting courses along the way but as long as you pay attention most people will succeed in this program with 85-95%. There is a lot of group work so just make sure to pick people that put in as much effort as you would. GLHF!
+
+- [Bachelor of Computer Science (Honours) | Full-time | Degree](https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science-honours)
+	- 4 年 3 个带薪 coop
+	- 17949 加币
+	- 总体印象不错，虽然但是 读 college 的 bachelor也要四年... 是不是不如[[本科二学位]]
+	- 这个四年时间就教得比较细了，编程原理居然还用 c++教，或者说 computer science 和那种 computer programming 的课 设置上就是不一样？？
+	- （原来是 20 年刚开的新项目）
+
+- [Computer Programming | Full-time | Ontario College Diploma](https://www.conestogac.on.ca/fulltime/computer-programming)
+	- 没有coop，但是更快毕业
+	- 计算机编程是一个为期两年的文凭课程，专为希望学习行业中业务应用程序开发人员所需的最新技能，但希望比三年制计算机程序员/分析师课程更快毕业的学生而设计。
+
+- [Web Development | Full-time | Ontario College Graduate Certificate](https://www.conestogac.on.ca/fulltime/web-development)
+	- 26875.80 加币（震惊 这个本地人和国际生居然一样价格！而且 这两年读下来也要 52w 加币... 不便宜呀）
+	- 有我喜欢的 2 年 web 开发研文 没有 coop 哭了（好像研文都没 coop🤔（有个一年的研文居然有coop）
+	- 哦... 这个入学要求居然要 cs 相关学位（但是2/3年的diploma也可以）/3 年工作经验!!! 那的确没必要coop... 看起来像是突破天花板的进修课
+	- 课程 前端的那些东西还挺全的 而且也比较新比较贴合的样子（好像高级版黑马前端课） 居然还教了mysql 但总体来说好像不值得花5w加币来读两年的样子捏...
+
+
+- [Mobile Solutions Development | Full-time | Graduate Certificate](https://www.conestogac.on.ca/fulltime/mobile-solutions-development)
+	- 也是要求前置学位的研文，不看了 不过这个比web便宜耶 17644.86 而且有coop
+
+- [Computer Applications Development | Full-time | Graduate Certificate](https://www.conestogac.on.ca/fulltime/computer-applications-development)
+	- 1年研文 要有3年以上前置学位 但没说要相关学科
+
+>[🔗](https://www.rolia.net/zh/topic.php?f=0&t=1109147)
+这个学校在滑铁卢地区很不错的，有很多实用课程，学生也有实习机会。我知道toyota等一些大公司从那里招实习生，然后给全职offer 
+
+
+### Humber College
