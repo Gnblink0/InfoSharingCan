@@ -56,7 +56,7 @@ Windsor: St.Clair
 群友：亚岗昆的课不行，有报了 cp 项目的人说教的 java 是十年前水平…（我看课程描述的时候也有感觉**有点奇怪有点老**<!--，但服务于政府的话... 比较保守落后好像也不意外-->）
 
 - [Internet Applications & Web Development (Co-op and Non Co-op Version) - School of Advanced Technology](https://www.algonquincollege.com/sat/program/internet-applications-web-development/) 
-	- 2 年 第三个学期开始 2 次 coop（Co-op 工作期限通常为 14 周（但这里又没有说得很清楚 到底是 1 次 14 周还是一共 14 周，Conestoga 倒是会提供那种一目了然的时间表格
+	- 2 年 第三个学期开始 2 次 coop（Co-op 工作期限通常为（一次） 14 周）
 	- 学费：31,804.88加币（总4学期）[](https://www.algonquincollege.com/ro/pay/fee-estimator/?campus=ALL&startterm=2022F&residency=international&programFees=3002X03FWO#programDetail)
 	- 课程好像也挺杂挺硬核的？但是没看到有提vue、react？会不会有点老了... 反正看起来怪怪的
 		- 编程：html css、js（jquery）、数据库（SQL）、数据库设计和管理、python、web 编程 2（通过 C# 和 ASP. net 的学习，学生学习面向对象编程的概念）、网络编程语言1（重点放在使用 .NET 平台在网页和数据库之间移动数据的方式上：C#、ASP.NET、Microsoft Entity和 .NET框架）、网络应用程序开发（PHP，该课程以一个小型项目结束，该项目旨在开发一个社交媒体网络，重点是共享和管理相册）、网络项目管理、网络编程语言2（ Web 开发中使用的高级工具和当前 Web 编程语言的概念和使用，例如 XML 和 JSON、内容管理系统 Web 服务和 JavaScript 框架）
