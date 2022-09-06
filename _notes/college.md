@@ -84,7 +84,7 @@ Windsor: St.Clair
 	- 这个好像是bcit关于计算机的明星项目了🤔 看起来很牛逼 好像第一年上通识 后面可以自己选方向 然后课程里也有作品集和项目 还强调竞争激烈？英语和数学要求高 500 个人里录取 150 个
 	- >作为第一年的共同课程，学生学习软件开发所有领域的核心理论和技能 ，包括网络开发、编程、脚本和计算机体系结构。从第二年开始，通过选择一个专业选项，你将接受专注于一个领域的更深入的教育。可以选择专攻其中一个领域。
 	- [BCIT CST admission : BCIT - reddit ](https://www.reddit.com/r/BCIT/comments/v2xsey/bcit_cst_admission/) 他们在说 数学86 什么的 是在说... 加拿大高中数学成绩？那我高中数学直接裂了-.- 对中国人忒不公平
-	- [全职妈妈亲述：文科生也能零基础转IT，在加拿大开启事业新春！ | 枫叶之路——加拿大移民咨询](https://www.lifeca.com/YiMinNewsDetail.aspx?id=512) 这个就是 cst 的！不过她是先雇主担保然后再加拿大本地读书...也就是说她申请的时候是本地身份 然后她队友还是码农...
+	- [全职妈妈亲述：文科生也能零基础转IT，在加拿大开启事业新春！ 丨 枫叶之路——加拿大移民咨询](https://www.lifeca.com/YiMinNewsDetail.aspx?id=512) 这个就是 cst 的！不过她是先雇主担保然后再加拿大本地读书...也就是说她申请的时候是本地身份 然后她队友还是码农...
 	  Q：录取难度不大吧，最低只要提供高中的英语和数学成绩，我当时是给了雅思和大学高数。但这样实用的项目还是挺多人申请的，可能竞争会比较大，我当时班上还有已经从 UBC 本科毕业的同学，也是打算转码。0 基础读起来说不难是假的，但像我这样年纪，跨专业的也成功读完啦。因为读这个项目没有一定要计算机课程的背景，所以还是会从比较基础的内容开始学，比如计算机系统结构、数据结构之类，加上一些实操的 lab 作为辅助，专业知识接受起来还好。但是 BC！T 的课程真的安排地很紧凑，第一学期就有 7 门课，还是挺累的；我为了要在第二学期申请带薪实习，还要争取每门课都拿高分，考试周还挺痛苦的，坚持就是胜利！
 	  - >[🔗](https://goo.gl/maps/a9i9exEpLurej6657)Came here almost 5 years ago to the CST program, and followed up with BTech program. learned lots from courses, peers, and self learning too! Graduated in 2017. Now working at Microsoft ayyy pretty gud! 
 
@@ -116,15 +116,15 @@ Windsor: St.Clair
 
 对康院印象还不错 似乎工程是强项 计算机也还行
 
-好像也挺重视coop的？有个单独界面[Co-operative education | Conestoga College](https://www.conestogac.on.ca/co-operative-education)
+好像也挺重视coop的？有个单独界面[Co-operative education 丨 Conestoga College](https://www.conestogac.on.ca/co-operative-education)
 
-[Full-time programs | Conestoga College Ontario](https://www.conestogac.on.ca/fulltime?keywords=&areaOfInterestFilterIds=500)
+[Full-time programs 丨 Conestoga College Ontario](https://www.conestogac.on.ca/fulltime?keywords=&areaOfInterestFilterIds=500)
 
 主要的IT项目：CPA、SET、IT Innovation and Design
 
 
 
-- [Computer Programming and Analysis | Advanced Diploma](https://www.conestogac.on.ca/fulltime/computer-programming-and-analysis/description?id=24546)
+- [Computer Programming and Analysis 丨 Advanced Diploma](https://www.conestogac.on.ca/fulltime/computer-programming-and-analysis/description?id=24546)
 	- 3年
 	- $16077
 	- coop 四个连续四个月（16个月）（仔细看了下 好像non coop2年多就能学完 coop就要3年多 那3年项目其中1年实习 很香啊）（就是CEC 读书时候的工作经验不能算 有点蛋疼（
@@ -136,7 +136,7 @@ Windsor: St.Clair
 
 啊 其实我也不想上这些商业分析数学之类的课...
 
-- [Software Engineering Technology | Full-time | Ontario College Advanced Diploma](https://www.conestogac.on.ca/fulltime/software-engineering-technology)
+- [Software Engineering Technology 丨 Full-time 丨 Ontario College Advanced Diploma](https://www.conestogac.on.ca/fulltime/software-engineering-technology)
 	- 时间学费同上
 	- 要学 c++（好吧 第一年就是围绕 c++...） 好的 多了很多我看不懂的东西（）
 	- This program provides the knowledge and skills to function proficiently as a software developer. Graduates will have acquired the ability and flexibility to join a large variety of software, technical, or system development teams at an intermediate level position. 平均而言，过去三年（2018 年至 2020 年）83% 的带薪实习毕业生和 70% 的非带薪实习毕业生在毕业后六个月内找到了工作。
@@ -177,7 +177,7 @@ CPA 已更新，因此现在更好，但它主要侧重于应用程序，而不�
 如果时间和预算允许，SET 的教授们还创建了一个新的学位课程：计算机科学学士学位。它是全新的，这是它提供的第一年。/u/i_yac可能能够提供有关它的更多信息。我建议将其添加到您正在考虑的程序列表中。
 我希望这有帮助。如果您还有其他问题，请告诉我。我会尽力回答” 
 
-- [IT Innovation and Design | Full-time | Ontario College Advanced Diploma](https://www.conestogac.on.ca/fulltime/it-innovation-and-design)
+- [IT Innovation and Design 丨 Full-time 丨 Ontario College Advanced Diploma](https://www.conestogac.on.ca/fulltime/it-innovation-and-design)
 	- 时间学费同上
 	- 这个好像偏向交互设计，整体和 cpa 比较像，但是会软一点、设计的东西多一点。看起来比较有趣，但是我担心比较软会不会对找工有影响，但是就业数据又很惊人100%... IT innovation and design这名字取得有点怪哈哈
 	- Graduates will be technically proficient in programming, especially for mobile devices, and can expect to obtain industry careers as software developers and designers. With professional experience, graduates will access career paths such as front-end developer, IT product manager, IT marketing manager and strategist. 平均而言，过去三年（2018 年至 2020 年）100% 的带薪实习毕业生和 69% 的非带薪实习毕业生在毕业后六个月内找到了工作。（....? 这么 bug）
@@ -199,28 +199,28 @@ CPA 已更新，因此现在更好，但它主要侧重于应用程序，而不�
 	- [I am going into my first year of IT Innovation and Design. How difficult is it? And any advice on how I can prepare for it? : Conestoga](https://www.reddit.com/r/Conestoga/comments/obbat2/i_am_going_into_my_first_year_of_it_innovation/)
 		- Its easy if you keep up with all the lectures and assignments. Make sure to attend all classes and pay attention during the labs, sounds easy but most classes can be pretty dry. If you're looking to get ahead before the semester starts work on basic HTML and CSS tutorials on youtube. Also start reading up on C# language and MVC. There will be easy math, English, and accounting courses along the way but as long as you pay attention most people will succeed in this program with 85-95%. There is a lot of group work so just make sure to pick people that put in as much effort as you would. GLHF!
 
-- [Bachelor of Computer Science (Honours) | Full-time | Degree](https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science-honours)
+- [Bachelor of Computer Science (Honours) 丨 Full-time 丨 Degree](https://www.conestogac.on.ca/fulltime/bachelor-of-computer-science-honours)
 	- 4 年 3 个带薪 coop
 	- 17949 加币
 	- 总体印象不错，虽然但是 读 college 的 bachelor也要四年... 是不是不如[[本科二学位]]
 	- 这个四年时间就教得比较细了，编程原理居然还用 c++教，或者说 computer science 和那种 computer programming 的课 设置上就是不一样？？
 	- （原来是 20 年刚开的新项目）
 
-- [Computer Programming | Full-time | Ontario College Diploma](https://www.conestogac.on.ca/fulltime/computer-programming)
+- [Computer Programming 丨 Full-time 丨 Ontario College Diploma](https://www.conestogac.on.ca/fulltime/computer-programming)
 	- 没有coop，但是更快毕业
 	- 计算机编程是一个为期两年的文凭课程，专为希望学习行业中业务应用程序开发人员所需的最新技能，但希望比三年制计算机程序员/分析师课程更快毕业的学生而设计。
 
-- [Web Development | Full-time | Ontario College Graduate Certificate](https://www.conestogac.on.ca/fulltime/web-development)
+- [Web Development 丨 Full-time 丨 Ontario College Graduate Certificate](https://www.conestogac.on.ca/fulltime/web-development)
 	- 26875.80 加币（震惊 这个本地人和国际生居然一样价格！而且 这两年读下来也要 52w 加币... 不便宜呀）
 	- 有我喜欢的 2 年 web 开发研文 没有 coop 哭了（好像研文都没 coop🤔（有个一年的研文居然有coop）
 	- 哦... 这个入学要求居然要 cs 相关学位（但是2/3年的diploma也可以）/3 年工作经验!!! 那的确没必要coop... 看起来像是突破天花板的进修课
 	- 课程 前端的那些东西还挺全的 而且也比较新比较贴合的样子（好像高级版黑马前端课） 居然还教了mysql 但总体来说好像不值得花5w加币来读两年的样子捏...
 
 
-- [Mobile Solutions Development | Full-time | Graduate Certificate](https://www.conestogac.on.ca/fulltime/mobile-solutions-development)
+- [Mobile Solutions Development 丨 Full-time 丨 Graduate Certificate](https://www.conestogac.on.ca/fulltime/mobile-solutions-development)
 	- 也是要求前置学位的研文，不看了 不过这个比web便宜耶 17644.86 而且有coop
 
-- [Computer Applications Development | Full-time | Graduate Certificate](https://www.conestogac.on.ca/fulltime/computer-applications-development)
+- [Computer Applications Development 丨 Full-time 丨 Graduate Certificate](https://www.conestogac.on.ca/fulltime/computer-applications-development)
 	- 1年研文 要有3年以上前置学位 但没说要相关学科
 
 >[🔗](https://www.rolia.net/zh/topic.php?f=0&t=1109147)
@@ -280,14 +280,14 @@ humber 给我印象也不错
 
 ### George Brown
 
-[Program Finder | George Brown College](https://www.georgebrown.ca/program-finder?year=2022)
+[Program Finder 丨 George Brown College](https://www.georgebrown.ca/program-finder?year=2022)
 
 
-[Computer Programming and Analysis Program T177 | George Brown College](https://www.georgebrown.ca/programs/computer-programming-and-analysis-program-t177)
+[Computer Programming and Analysis Program T177 丨 George Brown College](https://www.georgebrown.ca/programs/computer-programming-and-analysis-program-t177)
 
-[Computer Systems Technician Program T141 | George Brown College](https://www.georgebrown.ca/programs/computer-systems-technician-program-t141?year=2022)
+[Computer Systems Technician Program T141 丨 George Brown College](https://www.georgebrown.ca/programs/computer-systems-technician-program-t141?year=2022)
 
-[Game – Programming Program T163 | George Brown College](https://www.georgebrown.ca/programs/game-programming-program-t163?year=2022)
+[Game – Programming Program T163 丨 George Brown College](https://www.georgebrown.ca/programs/game-programming-program-t163?year=2022)
 
 乔治布朗给我一种没有很重视 IT 的感觉？？课程详述都没有（好吧它们网站就是做成这样 所有项目都无 不过可能具体的在某另一个页面） 然后很多课都有在线课 莫名让我感觉有点水
 
