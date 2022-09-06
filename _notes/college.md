@@ -384,7 +384,7 @@ IT 项目：CPA CPP CPD
 
 对 Durham 印象还蛮好的，毕竟 fei 西和陈永仁都在这读的
 
-但是谷歌地图评价看得有点瘆人，主要很多人说学校根本不关心学生能不能找到工作...? 然后地理位置也不是很好 而且很多项目也确实没 coop
+但是谷歌地图评价看得有点瘆人，主要很多人说学校根本不关心学生能不能找到工作...? 然后地理位置也不是很好（甚至有人说Oshawa是座死城（）） 而且很多项目也确实没 coop
 
 [Computer Programming (Computer Programming) 丨 Durham College](https://durhamcollege.ca/programs/computer-programming-two-year)
 
