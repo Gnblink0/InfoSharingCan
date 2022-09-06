@@ -203,18 +203,28 @@ Windsor: St.Clair
 	- Graduates will be technically proficient in programming, especially for mobile devices, and can expect to obtain industry careers as software developers and designers. With professional experience, graduates will access career paths such as front-end developer, IT product manager, IT marketing manager and strategist. 平均而言，过去三年（2018 年至 2020 年）100% 的带薪实习毕业生和 69% 的非带薪实习毕业生在毕业后六个月内找到了工作。（....? 这么 bug）
 	- [IT Innovation and Design (0040) - YouTube](https://www.youtube.com/watch?v=ttLl3GzJjsY)
 		- 一个老师讲了15minPPT介绍 Randall Kozak  rkozak@conestogac.on.ca
-		- There is a strong design component. there are graphic design courses. There's course in animation, and game design. A couple of courses actually in game development. That is on top of the programming courses would normally expect to find that you in a software development program. The database courses, and the inter connectivity courses, some networking, some security, and so forth and so on. 然后他说了这个行业需求很高，经济疲软的时候，在一个强劲并且会持续强劲的行业里很好 hhh... 果然转码就是找工赚钱 and this program has a lot to do with the front end, that typically has a lot to do with the business model of a company. 没懂🤔 前端和公司的商业模型？ 后面解释了下 好像之前这个行业都是大公司 现在其实有很多 startups/中小公司都在成立 需要雇员 改变了 job market
+		- There is a strong design component. there are graphic design courses. There's course in animation, and game design. A couple of courses actually in game development. That is on top of the programming courses would normally expect to find that you in a software development program. The database courses, and the inter connectivity courses, some networking, some security, and so forth and so on. 然后他说了这个行业需求很高，经济疲软的时候，在一个强劲并且会持续强劲的行业里很好 hhh... 果然转码就是找工赚钱 and this program has a lot to do with the front end, that typically has a lot to do with the business model of a company. 好像之前IT行业都是大公司 现在其实有很多 startups/中小公司都在成立 需要雇员 改变了 job market
 		- The program brings together:
+		  
 			Design & User Experience
+
 			Programming
+
 			Emerging technologies
+
 			Marketing and Business Skills
+
 			Innovation!
 		- Career Paths?
+		  
 			Leads to these careers:
+
 			Front End Developer
+
 			Full Stack Developer
+
 			UX Designer
+
 			Emerging technologies researcher
 	- [I am going into my first year of IT Innovation and Design. How difficult is it? And any advice on how I can prepare for it? : Conestoga](https://www.reddit.com/r/Conestoga/comments/obbat2/i_am_going_into_my_first_year_of_it_innovation/)
 		- Its easy if you keep up with all the lectures and assignments. Make sure to attend all classes and pay attention during the labs, sounds easy but most classes can be pretty dry. If you're looking to get ahead before the semester starts work on basic HTML and CSS tutorials on youtube. Also start reading up on C# language and MVC. There will be easy math, English, and accounting courses along the way but as long as you pay attention most people will succeed in this program with 85-95%. There is a lot of group work so just make sure to pick people that put in as much effort as you would. GLHF!
