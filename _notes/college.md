@@ -39,6 +39,11 @@ Windsor: St.Clair
 	- 最好有专门做项目的课，可以写上简历
 
 
+>[🔗](https://www.quora.com/Which-college-should-I-choose-to-study-Computer-Science-Humber-College-or-Seneca-College)[有关的就工作前景而言，您如何评价安大略省的亨伯学院](https://www.quora.com/How-would-you-rate-Humber-College-in-Ontario-in-terms-of-job-prospects)
+亨伯学院和其他社区学院享有良好的声誉；但是，您必须考虑具体的程序。大学能够告诉你有百分之多少的毕业生在毕业六个月后找到了工作；但是，要小心，因为拥有一份工作（任何工作）和在你接受过培训的领域的工作之间存在很大差异。
+Java和软件/技术不是我的专长；但是，如果我是你，我会问五个目前在安大略省从事 java / 软件工作的人（是的，不要问你的母亲或理发师，gezzzzzzz），即使你需要打电话给陌生人并要求一个 5分钟，面对面的约会：要求获得“X”工作，我应该在 Humber 接受“A”还是做“B”或做“C”。总是提出两个，最好是三个选项，你会得到更好的反馈。
+最后，来自弱项目的优秀人才得到工作；来自强大计划的弱者不会找到工作。记住，无论你做什么，无论你去哪里。
+
 ### Algonquin College
 
 亚岗昆的转码项目现在好像在各平台最出名最火，可能是因为 
@@ -374,6 +379,14 @@ IT 项目：CPA CPP CPD
 嘿，我处于类似的位置，想分享我的经验。几个学期前我进入了 CPA，几乎没有任何编码经验。第一学期甚至第二学期的课程并没有那么糟糕，但[IPC144](https://apps.senecacollege.ca/ssos/findOutline.do?subjectCode=IPC144) 将是一场真正的斗争。最后期限是疯狂的，工作量是巨大的。我现在正在重新学习这门课程，因为我第一次这样做时遇到了疯狂的困难。这门课没有数学，但无论是通过 youtube 还是其他来源，您都需要事先了解您的材料。如果您打算参加这门课，请做好准备，因为在我看来，作为入门级课程，它真的很糟糕。如果您有任何问题，请随时给我留言，我会尽力回答。 
 
 哈？有些人说课太难了？可能因为是c语言？
+
+### Durham College
+
+对 Durham 印象还蛮好的，毕竟 fei 西和陈永仁都在这读的
+
+但是谷歌地图评价看得有点瘆人，主要很多人说学校根本不关心学生能不能找到工作...? 然后地理位置也不是很好 而且很多项目也确实没 coop
+
+[Computer Programming (Computer Programming) 丨 Durham College](https://durhamcollege.ca/programs/computer-programming-two-year)
 
 ### Centennial College
 
