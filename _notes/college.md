@@ -1,5 +1,7 @@
 [安省所有 college 的合集网站](https://ontariocolleges.ca/en/programs)
 
+[College graduation, satisfaction and job rates丨ontario.ca](https://www.ontario.ca/page/college-graduation-satisfaction-and-job-rates)
+
 
 - [[亚岗昆学院 Algonquin College]] （[[渥太华]]）
 
@@ -116,7 +118,8 @@ Java和软件/技术不是我的专长；但是，如果我是你，我会问五
 - [Digital Design and Development, Diploma, Full-time – BCIT](https://www.bcit.ca/programs/digital-design-and-development-diploma-full-time-6515dipma/#courses) 
 	- 这个是商学+媒体院的 有点软了吧唧 不考虑
 
-- ### Conestoga College
+
+### Conestoga College
 
 好多校区 不过全都在 GTA 卫星城 计算机好像在滑铁卢比较多 (就在uw旁边 hh)
 > the Kitchener Waterloo is an extremely good area for high tech companies.[](https://youtu.be/ttLl3GzJjsY?t=605)
