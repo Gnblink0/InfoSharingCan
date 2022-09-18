@@ -2,7 +2,9 @@
 
 安省 collge 看这一个网站就够了⬆️
 
-1.可以按学校查，也可以按专业查 2.点开一个界面后，滚到最底下，就可以看见**所有相关项目**（可能要加载一会才会出来） 3. 左侧还可以筛选学校、学位、有无 coop 等
+1. 可以按学校查，也可以按专业查
+2. 点开一个界面后，**滚到最底下**，就可以看见**所有相关项目**（可能要加载一会才会出来） 
+3. 左侧还可以筛选学校、学位、有无 coop 等
 
 ![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/20220916150635.png)
 
@@ -12,6 +14,9 @@
 加拿大政府统计的college毕业满意度、毕业率、雇佣率等等
 
 ## 学校
+
+[Ontario College Map丨ontariocolleges.ca](https://ontariocolleges.ca/en/colleges/college-map)
+
 - 亚岗昆学院 Algonquin College （[[渥太华]]）
 
 - [[多伦多]]市区的四个 college
