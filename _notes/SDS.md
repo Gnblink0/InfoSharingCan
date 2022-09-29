@@ -6,6 +6,7 @@
 -   已经被任一加拿大高等教育指定学习机构 DLI 录取，**已获取录取通知书 Offer** 或有条件录取通知书 Conditional Offer；
 -   英/法语能力证明（**两年内有效A类雅思总分与单项均不低于 6.0**/法语 TEF 考试成绩不低于 NCLC7/加拿大离岸高中颁发的高中文凭）；
 -   能够证明学习期间有充足的经济能力负担生活（**一万加币担保投资证明 GIC**）；
+	- [2021加拿大留学互助财务证明之GIC办理详细攻略 - 知乎](https://zhuanlan.zhihu.com/p/370553326?utm_source=wechat_session&utm_medium=social&s_r=0&utm_id=0)
 -   递交申请前完成体检；
 
 
