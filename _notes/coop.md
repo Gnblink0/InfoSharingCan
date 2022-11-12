@@ -3,7 +3,9 @@
 
 加拿大找工最重要的就是本地经验（[[加拿大工作薪资]]），所以以找工移民为目的的留学，最重要的就是项目有无 coop
 
-举例：（同一专业的）university找工和发展好于college，但有coop的college在快速找工上依然优于univeristy
+举例：（同一专业的）university 找工和发展好于 college，但有 coop 的 college 在快速找工上依然优于 univeristy
+
+---
 
 有无 coop 一般会在项目界面直接标明
 
