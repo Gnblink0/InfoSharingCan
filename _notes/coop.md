@@ -18,3 +18,6 @@ optional coop的意思是双轨制项目可选coop，你申请的时候就要选
 ## 信息源
 
 [加拿大带薪实习研究生项目 ｜ COOP项目，你了解多少？ - 知乎](https://zhuanlan.zhihu.com/p/143475943)
+
+[专题采访丨我来自康院系列三十二（coop经验分享-谢博涵）](https://mp.weixin.qq.com/s/RAbeArCMKtk9ezJBw7RjhQ)
+
