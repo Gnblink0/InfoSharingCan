@@ -1,0 +1,161 @@
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.5/dist/instantsearch.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/moment@2.24.0/moment.min.js"></script>
+<link rel="stylesheet" type="text/css"
+    href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.5/dist/instantsearch.min.css">
+<link rel="stylesheet" type="text/css"
+    href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.5/dist/instantsearch-theme-algolia.min.css">
+
+<script>
+    const search = instantsearch({
+        appId: '{{ site.algolia.application_id }}',
+        apiKey: '{{ site.algolia.search_only_api_key }}',
+        indexName: '{{ site.algolia.index_name }}',
+        routing: true,
+        searchFunction(helper) {
+            const container = document.querySelector('#search-hits');
+            container.style.display = helper.state.query === '' ? 'none' : '';
+
+            helper.search();
+        }
+    });
+
+    const hitTemplate = function (hit) {
+        let date = '';
+        if (hit.date) {
+            date = moment.unix(hit.date).format('Y-M-D');
+        }
+
+        let url = `{{ site.baseurl }}${hit.url}#${hit.anchor}`;
+
+        const title = hit._highlightResult.title.value;
+
+        let breadcrumbs = '';
+        if (hit._highlightResult.headings) {
+            breadcrumbs = hit._highlightResult.headings.map(match => {
+                return `<span class="post-breadcrumb">${match.value}</span>`
+            }).join(' > ')
+        }
+
+        const content = hit._highlightResult.html.value;
+
+        return `
+    <ul class="archive">
+      <li>
+      <a class="internal-link" href="${url}">${title}</a>
+      <span>${date}</span>
+      {{#breadcrumbs}}<a href="${url}" class="post-breadcrumbs">${breadcrumbs}</a>{{/breadcrumbs}}
+      <div class="post-snippet">${content}</div>
+      <li>
+    </ul>
+  `;
+    }
+
+    search.addWidget(
+        instantsearch.widgets.searchBox({
+            container: '#search-searchbar',
+            searchOnEnterKeyPressOnly: true,
+            searchAsYouType: false,
+            placeholder: 'Explore this site...',
+            poweredBy: true // This is required if you're on the free Community plan
+        })
+    );
+
+    search.addWidget(
+        instantsearch.widgets.hits({
+            container: '#search-hits',
+            templates: {
+                item: hitTemplate
+            }
+        })
+    );
+
+    search.start();
+</script>
+
+<style>
+    .ais-search-box {
+        max-width: 100%;
+        margin-bottom: 15px;
+        font-size: 1em;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+        border-radius: 6px;
+    }
+
+    .post-item {
+        margin-bottom: 30px;
+    }
+
+    .post-link .ais-Highlight {
+        color: #2a7ae2;
+        font-style: normal;
+    }
+
+    .post-breadcrumbs {
+        color: #424242;
+        display: none;
+    }
+
+    .post-breadcrumb {
+        font-weight: bold;
+        font-size: 18px;
+        color: #424242;
+    }
+
+    .post-breadcrumb .ais-Highlight {
+        font-weight: bold;
+        font-style: normal;
+        color: #2a7ae2;
+    }
+
+    .post-snippet .ais-Highlight {
+        font-style: normal;
+        background: #ffe8bc;
+    }
+
+    .post-snippet img {
+        display: none;
+    }
+
+    .ais-search-box--input {
+        transition: box-shadow .4s ease, background .4s ease, -webkit-box-shadow .4s ease;
+        display: inline-block;
+        margin: 0 12px 12px 0;
+        background: #f5f5f500;
+        border: 1px solid rgba(0, 0, 0, 0.15);
+        border-radius: 6px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+        transition: all 0.23s ease-in-out 0s;
+        line-height: 1.7;
+        color: #202020;
+    }
+
+    /*
+@media (prefers-color-scheme: dark) {
+  .ais-search-box--input {
+    transition: box-shadow .4s ease,background .4s ease,-webkit-box-shadow .4s ease;
+    display: inline-block;
+    margin: 0 12px 12px 0;
+    background: #303030;
+    border: 1px solid #888;
+    border-radius: 6px;
+    box-shadow: 0 10px 30px #303030;
+    transition: all 0.23s ease-in-out 0s;
+    line-height: 1.7;
+    color: #ddd;
+}
+
+.post-breadcrumb {
+    font-weight: bold;
+    font-size: 18px;
+    color: #bbb;
+}
+
+.post-snippet .ais-Highlight {
+    font-style: normal;
+    background: #d4bf75;
+    color: #151515;
+}
+
+}
+*/
+</style>
