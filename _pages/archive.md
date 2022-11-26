@@ -17,7 +17,7 @@ permalink: /archive
 {% include algolia.html %}
 
 -->
-<h1>{{ page.title }}</h1> -->
+<h1>{{ page.title }}</h1>
 
 <ul class="archive">
 {% for note in site.notes %}
@@ -25,7 +25,7 @@ permalink: /archive
     <a href="{{ note.url }}{%- if site.use_html_extension -%}.html{%- endif -%}" class="internal-link">
     {{note.title}}</a>{% if note.category != null %} in {{note.category}}{% endif %} 
      <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
-      Last updated on {{ page.last_modified_at | date: "%Y-%m-%d" }}
+      🕙更新 {{ page.last_modified_at | date: "%Y-%m-%d" }}
       {% endif %}
     </time>
     <!-- <p>
