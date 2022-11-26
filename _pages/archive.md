@@ -16,6 +16,7 @@ permalink: /archive
 </div>
 {% include algolia.html %}
 
+-->
 <h1>{{ page.title }}</h1> -->
 
 <ul class="archive">
@@ -23,7 +24,10 @@ permalink: /archive
   <li>
     <a href="{{ note.url }}{%- if site.use_html_extension -%}.html{%- endif -%}" class="internal-link">
     {{note.title}}</a>{% if note.category != null %} in {{note.category}}{% endif %} 
-    <span>{{ note.last_modified_at | date: "%B %-d, %Y" }}</span>
+     <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
+      Last updated on {{ page.last_modified_at | date: "%Y-%m-%d" }}
+      {% endif %}
+    </time>
     <!-- <p>
         {% if note.summary %}
           {{ note.summary | strip_html | truncate: 50, "..." }}
