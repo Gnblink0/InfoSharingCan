@@ -12,7 +12,7 @@
 
 1. 可以按学校查，也可以按专业查
 2. 点开一个界面后，**滚到最底下**，就可以看见**所有相关项目**（可能要加载一会才会出来） 
-3. 左侧还可以筛选学校、学位、有无 coop 等
+3. 左侧还可以筛选学校、学位、有无 [[coop]] 等
 
 ![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/20220916150635.png)
 
@@ -25,7 +25,7 @@
 
 [Ontario College Map丨ontariocolleges.ca](https://ontariocolleges.ca/en/colleges/college-map)
 
-- 亚岗昆学院 Algonquin College （[[渥太华]]）
+- [[渥太华]]：[[Algonquin College]] 亚岗昆学院
 
 - [[多伦多]]市区的四个 college
 	- [[乔治布朗学院 George Brown]] （校区位于市中心）
@@ -37,9 +37,9 @@ Barrie: Georgian
 
 Oshawa: [[Durham College 杜伦学院]]
 
-Oakville: 谢尔丹学院 Sheridan College （谢尔丹我觉得是college里比较特殊的一个，艺术专业很好，要求也比普通college高，提供的bachelor学位也更多）
+Oakville: 谢尔丹学院 [[Sheridan College]]
 
-Kitchener: Conestoga
+Kitchener: [[Conestoga]]
 
 Hamilton: Mohawk
 
