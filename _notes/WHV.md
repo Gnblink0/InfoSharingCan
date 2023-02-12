@@ -17,6 +17,8 @@
 
 新西兰官网：[Working Holiday Visas丨Immigration New Zealand](https://www.immigration.govt.nz/new-zealand-visas/options/work/thinking-about-coming-to-new-zealand-to-work/working-holiday-visa)
 
+[澳洲WHV打工度假殿堂级攻略丨 轻松找到工作丨一年挣30w丨少走弯路_哔哩哔哩_bilibili](https://b23.tv/XTMde4z)
+
 [关于whv丨想了解的进来‼️](https://www.xiaohongshu.com/discovery/item/637656c8000000000c022c2d)
 
 [新西兰WHV 和 澳洲WHV 对比](https://www.xiaohongshu.com/discovery/item/639274c9000000001c005f64)
