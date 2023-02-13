@@ -17,8 +17,9 @@ BCPNP = BC 省的[[省提名]]
 
 BCPNP 一共有 9 类省提名移民项目，但最适合留学生的是 **国际硕博生类 (EE)**，只要就读并拿到了 BC  省内高校的[指定理工硕博项目](https://www.welcomebc.ca/Immigrate-to-B-C/documents/BC-PNP-IPG-EEBC-IPG-Eligible-Programs-of-Study.aspx)学位，毕业直接获得省提名资格，不需要工作经验/雇主担保。
 
-> 其实在2019年通过这个项目完成申请不超过300人 [](https://youtu.be/r-8iWYshVhQ?t=1432)
+> 其实在2019年通过这个项目完成申请不超过300人 [](https://youtu.be/r-8iWYshVhQ?t=1432) （怀疑这个项目网上讨论得最热门，但实操成功的人数不多）
 
+---
 
 感谢群友总结的【BCPNP 清单里的计算机相关硕士项目信息】：[BCPNP CS硕士项目 - Google 表格](https://docs.google.com/spreadsheets/d/1RUqIVQtiMmiJp6Wqg_yQRwZyT0Ulm1j3AUb8JLNR06w/edit#gid=687682209)
 
