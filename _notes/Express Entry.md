@@ -1,9 +1,12 @@
+
+
 ## 信息源
+
 [Immigrate through Express Entry - Canada.ca](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry.html) 官网
 
 [Comprehensive Ranking System (CRS) tool: skilled immigrants (Express Entry)](https://www.cic.gc.ca/english/immigrate/skilled/crs-tool.asp) 官方模拟打分器
 
-[Express Entry 丨 新生代签证移民事务所](https://eoivisa.com/ee/) 有 EE 的基础要求、模拟打分器、每次邀请动态
+[Express Entry 丨 新生代签证移民事务所](https://eoivisa.com/ee/) 有 EE 的基础要求、模拟打分器（比官网的简略好用）、每次邀请动态
 
 
 ## 正文
@@ -23,7 +26,7 @@ Express Entry（快速通道）本质上只是一个电子处理系统，具体�
 
 ### 工作经验
 
-[[如何向移民局证明我的工作经验？]]
+-> [[如何向移民局证明我的工作经验？]]
 
 [连续？不连续？EE里的工作经验究竟如何计算？](https://www.nirvanavisa.com/single-post/express-entry-work-experience)
 
