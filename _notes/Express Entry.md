@@ -8,6 +8,7 @@
 
 [Express Entry 丨 新生代签证移民事务所](https://eoivisa.com/ee/) 有 EE 的基础要求、模拟打分器（比官网的简略好用）、每次邀请动态
 
+[免费EE分数计算工具丨EE算分工具丨EE快速通道丨钱小移记](https://qianxiaoyi.com/ee-calculation/)
 
 ## 正文
 
@@ -31,6 +32,15 @@ Express Entry（快速通道）**本质上只是一个电子处理系统**，具
 
 >CEC/FSW/FST 与 EE 的关系，并不像一些省提名 PNP 项目（雇主担保、硕士研究生、技工类别等）那样，是由申请人自行选择符合条件的项目。申请人并非自行选择申请类别，而是在如实报备个人信息后，**项目官方会自行评估申请人符合其中哪一个或哪几个子项目**。并且，若符合 EE 多个子项目的条件，项目官方会**以 CEC、FSW、FST 的顺序**，根据且**仅根据 1 个子项目**的基本要求，作为评估申请人资格的标准。因此，“申请 CEC”，申请“FSW”这些措辞便显得不太严谨。
 >[【2023 更新】关于加拿大EE移民的一切丨EE快速通道移民丨Express Entry移民史上最全丨钱小移记](https://qianxiaoyi.com/canada-ee-immigration/)
+
+### 流程
+
+走EE通道需要满足2点，即：
+1.  最低要求（入池）
+2.  择优录取（被捞）
+
+其中**最低要求**指的是在对应项目下，进入人才库的最低标准，俗称“池子”；而**择优录取**则是你进入池子后会与其他满足“最低要求”的人同台竞技，谁的条件更好就会被优先选择，进入审批流程。
+[](https://qianxiaoyi.com/canada-ee-immigration/)
 
 ### 工作经验
 
@@ -61,18 +71,25 @@ Express Entry（快速通道）**本质上只是一个电子处理系统**，具
 
 
 
-### CRS 分数动态
+### CRS 分数
 
-[Ministerial Instructions respecting invitations to apply for permanent residence under the Express Entry system - Canada.ca](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds.html) （官网的每次捞人动态记录）
+EE的则有录取就是将已经选入池子中的人进行一个评比，并将每个人用分数来量化，优先审理分高的申请人，而这个分数叫作CRS（**C**omprehensive **R**anking **S**ystem），EE评分系统 。该评分系统有以下2个特点：
+1.  正常情况下每月更新一次
+2.  满分1200分
+[](https://qianxiaoyi.com/canada-ee-immigration/)
+
+### 官网的每次捞人动态记录
+[Ministerial Instructions respecting invitations to apply for permanent residence under the Express Entry system - Canada.ca](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds.html) 
 
 ![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/20221125113618.png)
 
-————
 
-小红书有人分析预测ee分数
+### 小红书分析预测 ee 分数
+
 https://www.xiaohongshu.com/user/profile/5f3a94b1000000000100a70d?xhsshare=CopyLink&appuid=5d447433000000001000dc9b&apptime=1664161466
 
-————
+
+### 官网目前池中人数
 
 官网可以直接看到目前池里各分数段人数，综合捞人频率与人数，也可以自己估算什么时候会降到自己的分
 
