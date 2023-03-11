@@ -1,3 +1,8 @@
+
+## index
+
+[[SDS]] ->
+
 ## 信息源
 
 [【2023 更新】关于加拿大GIC的一切丨担保投资证GIC丨钱小移记](https://qianxiaoyi.com/gic/)
@@ -21,6 +26,7 @@ GIC的全称是Guaranteed Investment Certificates，担保投资证书，也是�
 学生通过签证后，GIC里的资金将**在1年内分5-6次返还给学生**，每次返还约1600-2000加币，利息和一般的活期存款相当。反之如果学生被拒签，可以申请将GIC的资金一次性退还。
 
 加拿大主要银行都支持留学生远程开始 GIC 账户，具体可以[联系各大银行](https://qianxiaoyi.com/canada-bank-chinese/)。
+
 
 ### 操作
 
