@@ -21,9 +21,6 @@ DLI
 
 ### 材料清单
 
-
-### 材料
-
 由于我自己走的就是 SDS，所以可以列一下我自己经历过的详细的材料和流程
 
 ![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/20230311120403.png)
@@ -49,24 +46,24 @@ DLI
     - 最近的学业成绩单，本科硕士只要有就可以全放上去，本科还没毕业的放三年成绩单+在读证明
 - [ ] Evidence of Work Reqmnt Study
     - 学校开的学习项目中必须要工作的证明，因为我最开始的问卷选了我的项目包含工作，所以有这条，提供这个材料，移民局才会给你实习工作许可。
-    - 以[[NEU]]来说，poa可以用于提交这条。
+    - 以[[NEU]]来说，用于提交loa的poa可以用于提交这条。
 - [ ] Proof of Guaranteed Investment Certificate (GIC)
     - 详见[[GIC]]，仅sds需要
     - 我选择的银行是CIBC，这个要交的就是交费之后可以在官网登录下载的 Investment Advice Letter Generated
 - [ ] National Identity Document
-	- [ ] 身份证 
+	- [ ] 身份证
 	- [ ] 户口本
 	- [ ] 无犯罪证明
 - [ ] Proof of tuition payment
-	- 第一年的学费转给学校的转账回执
-- [ ] Proof of IELTS language test results
-	- 四项皆高于6的有效雅思成绩，也是仅 sds 需要
+	- 第一年的学费转给学校的转账回执，仅sds需要
+- [ ] Proof of [[雅思|IELTS language test]] results
+	- 四项皆高于6的有效雅思成绩，仅 sds 需要
 - [ ] Proof of upfront medical exam
 	- 预体检（[[入境前体检]]）
-- [ ] General Education and Employment Form（IMM0104）
-- [ ] Family Information (IMM5645)
-- [ ] Application for Study Permit Made Outside of Canada (IMM1294) 
-	- 这三个表都要下载Adobe Acrobat才可以打开和编辑
+- [ ] [[General Education and Employment Form（IMM0104）]]
+- [ ] [[Family Information (IMM5645)]]
+- [ ] [[Application for Study Permit Made Outside of Canada (IMM1294)]]
+
 
 ### 普签 or SDS？
 
