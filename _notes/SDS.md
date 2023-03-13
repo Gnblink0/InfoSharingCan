@@ -1,6 +1,6 @@
-DLI
 
 ## index
+
 [[签证]] -> [[学签]]
 
 -> [[GIC]]
@@ -18,24 +18,36 @@ DLI
 -   能够证明学习期间有充足的经济能力负担生活（**一万加币担保投资证明 [[GIC]]**）；
 -   递交申请前完成体检；
 
+### 普签 or SDS？
+
+与走SDS相对应，正常提供资金流水等方式提交学签就叫「普通签证」，简称「普签」
+
+>经验表明，通过直入计划 SDS 申请加拿大学签只能之前需要提供的过于复杂的资金证明材料。并不能减弱倒读、大龄等不利因素导致的拒签风险。
+
+而且虽然 SDS 的本意是加速，但 2022 年 SDS 积压严重，导致了下普签速度甚至比 SDS 更快的情况
+
+到底选用哪个通道递交签证，请考虑自身情况后判断
+
+[目前申请加拿大学签，走普签还是SDS计划 - 知乎](https://zhuanlan.zhihu.com/p/460077789)
+
 
 ### 材料清单
 
 由于我自己走的就是 SDS，所以可以列一下我自己经历过的详细的材料和流程
 
+- 官方表格
 ![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/20230311120403.png)
 
 
-⬆️官方表格
-
-
-![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/20220904094811.png)
+- 第三方总结
 
 信息源：[加拿大学生签证 境外学生签证 国内申请学签 资金担保 丨 优途加拿大](https://utoimmigration.com/study-permit-apply-from-china/#2)
 
-⬆️第三方总结
+![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/20220904094811.png)
 
-我们可以总结为以下⬇️todolist：
+
+
+- 我们可以总结为以下⬇️todolist：
 - [ ] Letter of Acceptance
 	- 学校发的正式录取信
 - [ ] Passport
@@ -65,14 +77,3 @@ DLI
 - [ ] [[Application for Study Permit Made Outside of Canada (IMM1294)]]
 
 
-### 普签 or SDS？
-
-与走SDS相对应，正常提供资金流水等方式提交学签就叫「普通签证」，简称「普签」
-
->经验表明，通过直入计划 SDS 申请加拿大学签只能之前需要提供的过于复杂的资金证明材料。并不能减弱倒读、大龄等不利因素导致的拒签风险。
-
-而且虽然 SDS 的本意是加速，但 2022 年 SDS 积压严重，导致了下普签速度甚至比 SDS 更快的情况
-
-到底选用哪个通道递交签证，请考虑自身情况后判断
-
-[目前申请加拿大学签，走普签还是SDS计划 - 知乎](https://zhuanlan.zhihu.com/p/460077789)
