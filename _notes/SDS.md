@@ -5,9 +5,16 @@
 
 -> [[GIC]]
 
+## 信息源
+
+[Student Direct Stream: Who can apply - Canada.ca](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/student-direct-stream/eligibility.html)
+
+
 ## 正文
 
 学生直入计划 Study Permit-Student Direct Stream
+
+SDS 最大的好处是：存1w加币的[[GIC]]后就不用提供其他任何资金证明用于申请[[学签]]。
 
 ### 申请条件
 

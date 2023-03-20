@@ -2,6 +2,11 @@
 
 [[加拿大地理与各省信息]] ->
 
+## 信息源
+
+[British Columbia - an introduction : British Expat Wiki](https://britishexpats.com/wiki/British_Columbia_-_an_introduction)
+
+
 ## 正文
 
 加拿大最西的省，落基山脉西麓

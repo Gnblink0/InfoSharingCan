@@ -17,7 +17,15 @@
 	- 工签是开放式工签，只要找得到，找什么工作都可以，不找也可以
 所以2年diploma和4年bachelor，在工签上是完全平等的，这也给在加拿大读college带来了优势。
 
----
+
+
+
+## 学校
+
+[College graduation, satisfaction and job rates丨ontario.ca](https://www.ontario.ca/page/college-graduation-satisfaction-and-job-rates)
+加拿大政府统计的college毕业满意度、毕业率、雇佣率等等
+
+### ontariocolleges
 
 [ontariocolleges(安省所有 college 的合集网站)](https://ontariocolleges.ca/en/programs)
 
@@ -29,14 +37,10 @@
 
 ![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/20220916150635.png)
 
----
 
-[College graduation, satisfaction and job rates丨ontario.ca](https://www.ontario.ca/page/college-graduation-satisfaction-and-job-rates)
-加拿大政府统计的college毕业满意度、毕业率、雇佣率等等
+[Ontario College Map丨ontariocolleges.ca](https://ontariocolleges.ca/en/colleges/college-map) 可以清晰看到安大略college的地理位置
 
-## 学校
-
-[Ontario College Map丨ontariocolleges.ca](https://ontariocolleges.ca/en/colleges/college-map)
+### 清单
 
 - [[渥太华]]：[[Algonquin College]] 亚岗昆学院
 
@@ -58,7 +62,7 @@ Hamilton: Mohawk
 
 Welland: Niagara
 
-London: Fanshawe
+London: [[Fanshawe]]
 
 Windsor: St.Clair
 
