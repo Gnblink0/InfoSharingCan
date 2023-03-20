@@ -32,10 +32,10 @@ GIC的全称是Guaranteed Investment Certificates，担保投资证书，也是�
 
 看了几个经验贴，好几个推荐在 CIBC（加拿大帝国商业银行）存 GIC
 
-⚠️：我存了之后才发现 CIBC 的 GIC 有一个问题，这个问题很少被大家注意到——国际留学生的 GIC 会被存在 CIBC 的子银行 simplii 里，而不是直接存在 CIBC。这个 simplii 是一个网上银行，没有任何线下实体分行（可以线下去CIBC的ATM，但是不能去CIBC的支行），有问题只能发邮件、打电话、在线沟通。所以可能会碰到比较麻烦一点的情况（虽然我自己还未碰到）
+⚠️：我存了之后才发现 CIBC 的 GIC 有一个问题——**国际留学生的 GIC 会被存在 CIBC 的子银行 simplii 里，而不是直接存在 CIBC**，这是2021年之后的新政，所以网上的讨论并不多。这个 simplii 是一个网上银行，没有任何线下实体分行（可以线下去CIBC的ATM，但是不能去CIBC的支行），有问题只能发邮件、打电话、在线沟通。所以可能会碰到比较麻烦一点的情况（虽然我自己尚未入境还未碰到）
 
 ![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/IMG_0149.jpeg)
-⬆️ 如果你的 welcome letter 里有这句话，就代表了你的 GIC 被存到了 simplii，根据[[加拿大转码移民交流群|群友]]反应，应该所有人都被存到了simplii
+⬆️ 如果你的 welcome letter 里有这句话，就代表了你的 GIC 被存到了 simplii，根据[[加拿大转码移民交流群|群友]]反应，现在所有申请CIBC的GIC都被存到了simplii
 
 ![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/IMG_0148.jpeg)
 
