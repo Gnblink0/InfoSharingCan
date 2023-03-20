@@ -1,4 +1,22 @@
-BCPNP = BC 省的[[省提名]]
+
+## index
+
+[[省提名]] ->
+
+[[BC省]] ->
+
+
+## 信息源
+
+[理工硕博项目名单](https://www.welcomebc.ca/Immigrate-to-B-C/documents/BC-PNP-IPG-EEBC-IPG-Eligible-Programs-of-Study.aspx)
+
+[2022年最新版BC省BCPNP省提名项目(技术类)全解析 - 知乎](https://zhuanlan.zhihu.com/p/143146744)
+
+[BC省提名移民项目深入解析｜如何正确评估省提名项目是否适合自己？ - YouTube](https://www.youtube.com/watch?v=r-8iWYshVhQ)
+
+## 正文
+
+BCPNP = [[BC省|BC省]]的[[省提名]]
 
 - Skilled Immigration (Sl 技术移民）
 	- Skilled Worker(EEBC) 技术移民
@@ -25,10 +43,3 @@ BCPNP 一共有 9 类省提名移民项目，但最适合留学生的是 **国�
 
 （有可能不完整，欢迎大家补充纠正啦~大家信息共享，一起加油~）
 
-## 参考资料
-
-[理工硕博项目名单](https://www.welcomebc.ca/Immigrate-to-B-C/documents/BC-PNP-IPG-EEBC-IPG-Eligible-Programs-of-Study.aspx)
-
-[2022年最新版BC省BCPNP省提名项目(技术类)全解析 - 知乎](https://zhuanlan.zhihu.com/p/143146744)
-
-[BC省提名移民项目深入解析｜如何正确评估省提名项目是否适合自己？ - YouTube](https://www.youtube.com/watch?v=r-8iWYshVhQ)
