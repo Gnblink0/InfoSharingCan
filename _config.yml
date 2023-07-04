@@ -33,7 +33,6 @@ collections:
   notes:
     output: true
     permalink: /:slug
-    order: reverse_last_modified_at
 
 defaults:
   - scope:

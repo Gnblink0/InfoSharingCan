@@ -23,13 +23,10 @@ permalink: /archive
 -->
 <h1>{{ page.title }}</h1>
 
+
 {% assign sorted_notes = site.notes | sort: 'note.last_modified_at' | reverse %}
-{% assign sorted_notes_with_timestamp = sorted_notes | map: 'note', 'last_modified_at' | sort %}
-
 <ul class="archive">
- {% for timestamp in sorted_notes_with_timestamp %}
-  {% assign note = sorted_notes | where: 'note.last_modified_at', timestamp | first %}
-
+  {% for note in sorted_notes %}
   <li>
     <a href="{{ note.url }}{%- if site.use_html_extension -%}.html{%- endif -%}" class="internal-link">
     {{note.title}}</a>{% if note.category != null %} in {{note.category}}{% endif %} 
