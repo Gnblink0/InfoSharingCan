@@ -24,6 +24,23 @@ permalink: /archive
 <h1>{{ page.title }}</h1>
 
 
+{% assign one_month_ago = 'now' | date: "%Y-%m-%d" | date: "%s" | minus: 2592000 %}  <!-- 2592000 秒等于 30 天 -->
+
+<ul class="archive">
+  {% for note in site.notes %}
+    {% assign modified_date = note.last_modified_at | date: "%Y-%m-%d" | date: "%s" %}
+    {% if modified_date >= one_month_ago %}
+      <li>
+        <a href="{{ note.url }}{%- if site.use_html_extension -%}.html{%- endif -%}" class="internal-link">
+          {{ note.title }}</a>
+        {% if note.category != null %} in {{ note.category }}{% endif %}
+        <time datetime="{{ note.last_modified_at | date_to_xmlschema }}">
+          <!-- 🕙更新  --> {{ note.last_modified_at | date: "%Y-%m-%d" }}
+        </time>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
 
 <ul class="archive">
   {% for note in site.notes | sort: 'last_modified_at' | reverse %} 
