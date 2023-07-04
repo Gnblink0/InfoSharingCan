@@ -24,7 +24,7 @@ permalink: /archive
 <h1>{{ page.title }}</h1>
 
 
-{% assign sorted_notes = site.notes | sort: 'last_modified_at' | reverse %}
+{% assign sorted_notes = site.notes | sort: 'last_modified_at'%}
 <ul class="archive">
   {% for note in sorted_notes %}
   <li>
