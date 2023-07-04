@@ -26,7 +26,7 @@ permalink: /archive
 
 
 <ul class="archive">
-  {% for note in site.notes | sort: 'note.last_modified_at' | reverse %} 
+  {% for note in site.notes | sort: 'last_modified_at' | reverse %} 
   <li>
     <a href="{{ note.url }}{%- if site.use_html_extension -%}.html{%- endif -%}" class="internal-link">
     <!-- {{note.title}}</a>{% if note.category != null %} in {{note.category}}{% endif %}  -->
