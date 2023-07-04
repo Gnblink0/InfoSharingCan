@@ -24,14 +24,14 @@ permalink: /archive
 <h1>{{ page.title }}</h1>
 
 
-{% assign sorted_notes = site.notes | sort: 'last_modified_at' | reverse %}
+{% assign sorted_notes = site.notes | sort: 'data.last_modified_at' | reverse %}
 <ul class="archive">
   {% for note in sorted_notes %}
   <li>
     <a href="{{ note.url }}{%- if site.use_html_extension -%}.html{%- endif -%}" class="internal-link">
     {{note.title}}</a>{% if note.category != null %} in {{note.category}}{% endif %} 
      <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
-      <!-- 🕙更新  --> {{ note.last_modified_at | date: "%Y-%m-%d" }}
+      <!-- 🕙更新  --> {{ note.date.last_modified_at | date: "%Y-%m-%d" }}
       {% endif %}
     </time>
     <!-- <span>{{ note.last_modified_at | date: "%B %-d, %Y" }}</span> -->
