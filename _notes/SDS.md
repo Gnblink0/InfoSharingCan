@@ -9,6 +9,9 @@
 
 [Student Direct Stream: Who can apply - Canada.ca](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/student-direct-stream/eligibility.html)
 
+[加拿大 SDS 学签介绍 - 飞书云文档](https://gd7dcarg0g.feishu.cn/docx/MamhdGK49oAuMqxZcKjccNRTnNb)
+
+[最新加拿大学签申请全流程-SDS超详细版，含GIC申请及转账 - 加拿大留学申请 寄托家园留学论坛](https://bbs.gter.net/thread-2507913-1-1.html) （[[SDS]]详细流程）
 
 ## 正文
 
