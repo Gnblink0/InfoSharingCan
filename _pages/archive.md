@@ -29,7 +29,7 @@ permalink: /archive
   {% for note in site.notes | sort: 'last_modified_at' | reverse %} 
   <li>
     <a href="{{ note.url }}{%- if site.use_html_extension -%}.html{%- endif -%}" class="internal-link">
-    <!-- {{note.title}}</a>{% if note.category != null %} in {{note.category}}{% endif %}  -->
+    {{note.title}}</a>{% if note.category != null %} in {{note.category}}{% endif %} 
      <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
       <!-- 🕙更新  --> {{ note.last_modified_at | date: "%Y-%m-%d" }}
       {% endif %}
