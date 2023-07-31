@@ -24,8 +24,6 @@ permalink: /archive
 <h1>{{ page.title }}</h1>
 
 
-{% assign one_month_ago = 'now' | date: "%Y-%m-%d" | date: "%s" | minus: 2592000 %}  <!-- 2592000 秒等于 30 天 -->
-
 <ul class="archive">
   {% for note in site.notes %}
     {% assign modified_date = note.last_modified_at | date: "%Y-%m-%d" | date: "%s" %}
