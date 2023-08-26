@@ -47,23 +47,21 @@ EE 的择优录取就是将已经选入池子中的人进行一个评比，并�
 	- [Express Entry 丨 新生代签证移民事务所](https://eoivisa.com/ee/) 比官网的简略好用
 	- [免费EE分数计算工具丨EE算分工具丨EE快速通道丨钱小移记](https://qianxiaoyi.com/ee-calculation/)
 
-### 官网的每次捞人动态记录
+- 算出自己的分之后对比
+	- 官网的每次捞人动态记录 [Ministerial Instructions respecting invitations to apply for permanent residence under the Express Entry system - Canada.ca](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds.html) 
+	- 目前池里各分数段人数 [Express Entry rounds of invitations - Canada.ca](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/submit-profile/rounds-invitations.html)
+	- 小红书有人分析预测未来的 ee 分数 [Tccc・小红书 / RED](https://www.xiaohongshu.com/user/profile/5f3a94b1000000000100a70d)
+	- 综合捞人分数、频率、人数，就可以估算出什么时候会降到自己的分
+	- 当然估计大多数人只是在计划阶段，还没有加拿大的学习工作经历，也就不仅无法准确算出自己的分、也无法得知自己入池的时候官方到底是什么分数
 
-[Ministerial Instructions respecting invitations to apply for permanent residence under the Express Entry system - Canada.ca](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds.html) 
-
-![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/20221125113618.png)
-
-
-### 小红书分析预测 ee 分数
+### 
 
 https://www.xiaohongshu.com/user/profile/5f3a94b1000000000100a70d?xhsshare=CopyLink&appuid=5d447433000000001000dc9b&apptime=1664161466
 
 
 ### 官网目前池中人数
 
-官网可以直接看到目前池里各分数段人数，综合捞人频率与人数，也可以自己估算什么时候会降到自己的分
 
-[Express Entry rounds of invitations - Canada.ca](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/submit-profile/rounds-invitations.html)
 
 ## 具体的移民类别
 
@@ -94,7 +92,8 @@ https://www.xiaohongshu.com/user/profile/5f3a94b1000000000100a70d?xhsshare=CopyL
 
 ---
 
-注意 French language proficiency (2023-1) 、Healthcare occupations (2023-1)、STEM occupations (2023-1)，这些类别之前是不存在的，因为这是 2023年 ee 改革的新方向，按照更细化的具体的职业捞人：[Express Entry 快速通道职业定向邀请即将上线 - EOIvisa丨新生代签证移民事务所](https://eoivisa.com/express-entry-target-draw)
+注意 French language proficiency (2023-1) 、Healthcare occupations (2023-1)、STEM occupations (2023-1)，这些类别之前是不存在的，因为这是 2023 年 ee 改革的新方向，按照更细化的具体的职业捞人：[Express Entry 快速通道职业定向邀请即将上线 - EOIvisa丨新生代签证移民事务所](https://eoivisa.com/express-entry-target-draw)
+
 受益者（也就是重点捞的人）是 掌握法语的人、稀缺行业的人（医疗、STEM、技工、运输）
 
 ---
@@ -102,6 +101,9 @@ https://www.xiaohongshu.com/user/profile/5f3a94b1000000000100a70d?xhsshare=CopyL
 ![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/20230826122716.png)
 
 还有这张图，去年的时候 ee 飙到 500 多高分，大家唉声叹气觉得上岸无望，其实这是有特殊原因的而不是常态。
+
 原因就是 2020-2021 疫情导致加拿大暂停了邀请境外的移民申请，只捞境内的 CEC 和 PNP，但是每年的移民配额是有必须完成的指标的，所以就大放水捞了很多 CEC，CEC 甚至达到了 75 分这样点击就送的程度（所以当时人在加拿大且有一年本地工作经验的人基本都上岸了），但是境外的 FSW 一个不捞。
+
 2022 年 7 月 6 日这次不限类别是一年半之后首次开始邀请境外申请者，所以连续捞了十次不限类别分数还是很高接近 500，但这个目的就在于清理这一年半来积压的高分境外申请者，所以短期内分数高是正常的。
+
 也可以看到花了将近半年基本清完了积压，分数回到正常偏高水准，同时开始下一步的改革（即上面提到的职业定向邀请）
