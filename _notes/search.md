@@ -6,5 +6,5 @@ permalink: /search/
 
 <script async src="https://cse.google.com/cse.js?cx=04344c4d7fd324f82">
 </script>
-<div class="gcse-searchbox-only"></div>
+<div class="gcse-search"></div>
 
