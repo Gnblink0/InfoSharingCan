@@ -17,6 +17,8 @@ permalink: /
 
 加拿大移民 - 纯文转码 是本人的特点和目标，欢迎各位建议、补充、共建，欢迎衍生的移民、留学、转码相关信息。
 
+⚠️：本文档提供的很多信息都有较强的时效性，仅供参考，尤其是各国的移民政策和难度（例如[[加拿大留学移民]]，[[Express Entry]]的分数涨跌捞人形式年年不同，导致移民加拿大难度和最佳路径会变化），指导实践的话请务必去一手网站（官网）确认和参考多方信息判断
+
 ## 如何探索？
 
 本页面的模板来自：[digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template)，为依托 GitHub/Jekyll/Netlify 搭建的静态网页，遵循双链和网状组织原则。
