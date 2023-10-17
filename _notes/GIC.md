@@ -7,7 +7,7 @@
 
 [【2023 更新】关于加拿大GIC的一切丨担保投资证GIC丨钱小移记](https://qianxiaoyi.com/gic/)
 
-[2021加拿大留学互助财务证明之GIC办理详细攻略 - 知乎](https://zhuanlan.zhihu.com/p/370553326?utm_source=wechat_session&utm_medium=social&s_r=0&utm_id=0)
+[2021加拿大留学互助财务证明之GIC办理详细攻略 - 知乎](https://zhuanlan.zhihu.com/p/370553326?utm_source=wechat_session&utm_medium=social&s_r=0&utm_id=0) 🌟
 
 [2022加拿大SDS最新CIBC GIC申请攻略之工商银行汇款篇 - 知乎](https://zhuanlan.zhihu.com/p/566223856?utm_id=0&utm_source=wechat_session&utm_medium=social&s_r=0)
 
