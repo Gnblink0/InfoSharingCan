@@ -57,3 +57,6 @@ Align applicants are given three essay prompts in lieu of the statement of purpo
 
 [【持续更新】转码三思。NEU在读，发现自己不想做码农，考虑退学。](https://www.douban.com/group/topic/268061259/?_i=1954547tzth8nk)
 
+## 入学
+
+[NEU Vancouver录取后手册兼新移民登录手册 - Google 文件](https://docs.google.com/document/d/193RlLtrBgHa4lNXlNU1keToViHMyhtph_eIh6SzWJzw/edit#heading=h.xc0ghaynhlzn)

@@ -44,9 +44,9 @@ GIC的全称是Guaranteed Investment Certificates，担保投资证书，也是�
 
 [Banking for International Students in Canada丨CIBC](https://www.cibc.com/en/special-offers/international-student-gic.html)
 
-我的推荐人邮箱： sherrixuu@gmail.com
+🥺觉得这个文档有用的，可以在最后填我的邮箱，不花一分钱打赏 25 加币
 
-🥺觉得这个文档有用的，可以在最后填我的邮箱，不花一分钱打赏25加币
+我的推荐人邮箱： sherrixuu@gmail.com
 
 ![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/20230227150750.png)
 ![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/20230227150914.png)
