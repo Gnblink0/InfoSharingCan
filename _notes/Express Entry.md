@@ -90,7 +90,7 @@ EE 的择优录取就是将已经选入池子中的人进行一个评比，并�
 
 ---
 
-注意 French language proficiency (2023-1) 、Healthcare occupations (2023-1)、STEM occupations (2023-1)，这些类别之前是不存在的，因为这是 2023 年 ee 改革的新方向，按照更细化的具体的职业捞人：[Express Entry 快速通道职业定向邀请即将上线 - EOIvisa丨新生代签证移民事务所](https://eoivisa.com/express-entry-target-draw)
+注意 French language proficiency (2023-1) 、Healthcare occupations (2023-1)、STEM occupations (2023-1)，这些类别之前是不存在的，因为这是 2023 年 ee 改革的新方向，按照更细化的具体的职业捞人：[Express Entry 快速通道职业定向邀请即将上线 - EOIvisa](https://eoivisa.com/express-entry-target-draw) [[加拿大移民政策重大更新列表]]
 
 受益者（也就是重点捞的人）是 掌握法语的人、稀缺行业的人（医疗、STEM、技工、运输）
 

@@ -24,7 +24,7 @@
 	- 工签是开放式工签，只要找得到，找什么工作都可以，不找也可以
 所以2年diploma和4年bachelor，在工签上是完全平等的，这也给在加拿大读college带来了优势。
 
-
+更新：注意[[加拿大移民政策重大更新列表]]中的[[2024-01-22]]，有打击college留学的性质
 ## 学校
 
 [College graduation, satisfaction and job rates丨ontario.ca](https://www.ontario.ca/page/college-graduation-satisfaction-and-job-rates)
